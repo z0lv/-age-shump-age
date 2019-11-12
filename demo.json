@@ -11,15 +11,15 @@
          "target":"."
         }
     },
- "height":32,
+ "height":512,
  "infinite":false,
  "layers":[
         {
-         "compression":"zlib",
-         "data":"eAHt0AENAAAAwqD3T20ON4hAYcCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDLwPDCAAAAE=",
+         "compression":"gzip",
+         "data":"H4sIAAAAAAAEE+3aWZMsRRUA4EFcQARE3EXcwH1DUQQFFwQX\/v8DD\/eFcEFFBcM9GORkxJyIQ0ZWVfZM19h37vdwIqt7urLynPyyKmemb52dnd0SasAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwcIcY+E3k+dsSv7vD8n7PXWdnf46cM94dr29yPXK++7wz\/779yw3z8FqZ6z7X0es7Pf+2Hk75nvD7mM9XI\/4w6fTQ+W8mTtVAy\/19F\/ev90Y7U4O\/xznnESPrS++dav5\/7fLYqwanugb6\/Nv8HVKDfxxg4RQNjPI\/pAa3Iv\/Z9XA75d9q8EZEy28mtu6Jb0Y\/\/5zsa+Z6x\/rMv2JM\/4sY3bdm10Eby1r+e+ee+7G257zMc3atBrMG2hpo94LR\/WAv95l33Yfm3vvQOizVYDb\/6rG3sEf+Lfead+\/3Mtcc1eAy+VcLzcNo3efc1d+T+uO1OexrfIz82xy2Gvy7xH\/iuM7tsY63xv\/fuG5a7uvSXq\/NfavFZeb\/WLnN9LOVfz+fh74+1fzT\/db8HZpv\/\/lTzX\/vec86yH+f+9bM2l77zGXm\/wPxe+n9EQ9EPBjxwYiHIj4U8XBEznltT3X+67PxPO7TdcxLxx+OHD8S8dGIj0V8POITEZ+M+FTE6LxTzb\/amP296ZHI8dMRj0Z8JuKzEZ+L+HzEFyL6\/Pfeb9ccrno8U4PHIsfHI74Y8aWIL0d8JeKrEV+L6B3Nzn0+i0b7i9F7a\/uxq9RhqwZfjxy\/EfHNiG9FfDviiYjvRHw3op3\/csSfLtbTbP6H3ovqfuzYtVirwZOR4\/civh\/xVMQPIp6OeCbihxFnEXdFvCvi7oi98q\/rbPYah7hYmo8fRU7PRjwX8eOIn0T8NOJnEc9H3BNxb8T7I+6LGP2+MRrH0vVqnkvHzcKxDSyN5+dxrRciXoz4RcQvI34V8euIlyJGuc28t2ZuKe\/6\/rENLOXfrnnsa2V9Wg1Gf7OoeS4dH9tAjiX\/jlLbWdOZ16HtWu2X8t9zXg4d\/1U\/v7QWXr94pizVYC+XV83nMucv1eCVhRrcTvus2Xos1SDnv+Wc63LvNTk75mN\/Lu9D59281\/le2zvOPhezj9nPHzvPrf6yDqP5Xrtfzj4Xso\/rvIdkzUf7+\/be7Fy0sbe\/Uea66NtWg63+Mv\/Zem3N18zP85r9ePP17Fi2+qn91VrX+tY+Zuo1k9\/WZ7bub23cWx6bodm\/X\/6xM1L7rvkv1StrV+u2lePWz0fXzetv5d\/nnt8dad8f6aN9l6L22\/c9Mxd5\/qzLrdz78Wf\/ta1z1PeXtcu887sj9fw8zv+f5uvW9n2PalCfsecXNWx7kP7cfmwzr3P8dUz9fWztOnn+0vcGar\/tuNUgv1s0yr+NOfvMc+v168\/q+zO5jj4zqndeN9u16+R4+vzTQ801+2tt+z9ia\/u+e4\/9HqPeZ\/pzR\/nNvLdVg7XrLOVf6zFyv5R\/9pe1yudAu+\/V3Ee1m8l16TOjGuS6W9vX5nhrvvkdsjTQ7nt9DWbzb3n2v2\/MjGspz7X3Ww1yb9fatbyzn8y\/\/q88a5Ft5prtW9F3+z\/yaA5H85AWsj3WvT9zuEqb+bexZb7Z5v\/OM9fMP9tR\/m0sdR7OL+qUuWe7tiavks+h547yz7zr9wbacV+HpfzrGGr\/mfvMebWPvY77e3VdA3Ws\/fHa\/Lc+c483uudlX3lfPOY+8NA6jeZmVIO23quFdDCax1GfmfOo\/X+ug6Wx9v5rvjWH+mzP2i\/1Wc+rx6eSf\/+MqmPM45l95e2U\/8yzKnPPtv79dDR3t1P+zeyh4806tPaq+Y\/WT66jvdp6f2733vqsbnum84iaY+7V6vv5N4BR\/oeYGp2\/V97Zb53v0fX7euQesn9\/bX85W4Pr2gfWOa+\/g+x5\/Vrn6qk\/Hs1BztWx2rWx7FWDkZfzwdpKX8fKte+n3+P19W+vr2MO2rj6muyde7vm2txnLa4r\/35uruO1\/N\/5PMs5r+1Nnf+ZtX+d6\/86vNdrLNn\/W3cfvqnz3\/Lvf2ep7vP4pubfP29G+9ub7L+uhTwe1eQ6nsN5fe3lv9+ndmpXDbwNzcq5gwAAAgA=",
          "encoding":"base64",
-         "height":32,
-         "id":3,
+         "height":512,
+         "id":6,
          "name":"Tile Layer 1",
          "opacity":1,
          "type":"tilelayer",
@@ -243,8 +243,25 @@
                  "type":"",
                  "visible":true,
                  "width":48,
-                 "x":304,
-                 "y":480
+                 "x":1056,
+                 "y":16320
+                }, 
+                {
+                 "height":336,
+                 "id":68,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"viewport",
+                         "type":"int",
+                         "value":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":592,
+                 "x":752,
+                 "y":16016
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -267,7 +284,7 @@
                  "visible":true,
                  "width":0,
                  "x":7,
-                 "y":64
+                 "y":15936
                 }, 
                 {
                  "height":0,
@@ -279,7 +296,7 @@
                  "visible":true,
                  "width":0,
                  "x":246,
-                 "y":65
+                 "y":15937
                 }, 
                 {
                  "height":0,
@@ -291,19 +308,7 @@
                  "visible":true,
                  "width":0,
                  "x":32,
-                 "y":176
-                }, 
-                {
-                 "height":0,
-                 "id":35,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":16,
-                 "y":576
+                 "y":16048
                 }, 
                 {
                  "height":0,
@@ -346,19 +351,7 @@
                  "visible":true,
                  "width":0,
                  "x":208,
-                 "y":208
-                }, 
-                {
-                 "height":0,
-                 "id":37,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":256,
-                 "y":576
+                 "y":16080
                 }, 
                 {
                  "height":0,
@@ -370,7 +363,7 @@
                  "visible":true,
                  "width":0,
                  "x":228,
-                 "y":65
+                 "y":15937
                 }, 
                 {
                  "height":0,
@@ -382,7 +375,7 @@
                  "visible":true,
                  "width":0,
                  "x":23,
-                 "y":64
+                 "y":15936
                 }, 
                 {
                  "height":0,
@@ -394,7 +387,7 @@
                  "visible":true,
                  "width":0,
                  "x":39,
-                 "y":64
+                 "y":15936
                 }, 
                 {
                  "height":0,
@@ -406,7 +399,7 @@
                  "visible":true,
                  "width":0,
                  "x":55,
-                 "y":64
+                 "y":15936
                 }, 
                 {
                  "height":0,
@@ -418,7 +411,7 @@
                  "visible":true,
                  "width":0,
                  "x":210,
-                 "y":64
+                 "y":15936
                 }, 
                 {
                  "height":0,
@@ -430,7 +423,7 @@
                  "visible":true,
                  "width":0,
                  "x":192,
-                 "y":65
+                 "y":15937
                 }, 
                 {
                  "gid":187,
@@ -548,7 +541,7 @@
                  "visible":true,
                  "width":238,
                  "x":0,
-                 "y":-64
+                 "y":15808
                 }, 
                 {
                  "height":0,
@@ -560,7 +553,7 @@
                  "visible":true,
                  "width":0,
                  "x":96,
-                 "y":96
+                 "y":15968
                 }, 
                 {
                  "height":0,
@@ -572,45 +565,7 @@
                  "visible":true,
                  "width":0,
                  "x":160,
-                 "y":96
-                }, 
-                {
-                 "gid":54,
-                 "height":64,
-                 "id":64,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"spawn.delay",
-                         "type":"int",
-                         "value":0
-                        }, 
-                        {
-                         "name":"spawn.interval",
-                         "type":"int",
-                         "value":10
-                        }, 
-                        {
-                         "name":"spawn.lifetime_",
-                         "type":"int",
-                         "value":60
-                        }, 
-                        {
-                         "name":"spawn.object",
-                         "type":"int",
-                         "value":60
-                        }, 
-                        {
-                         "name":"spawn.repeat",
-                         "type":"int",
-                         "value":4
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":64,
-                 "x":-256,
-                 "y":-64
+                 "y":15968
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -618,8 +573,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":65,
+ "nextlayerid":9,
+ "nextobjectid":69,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -633,8 +588,8 @@
          "value":512
         }],
  "renderorder":"right-down",
- "tiledversion":"2019.10.08",
- "tileheight":16,
+ "tiledversion":"2019.10.18",
+ "tileheight":32,
  "tilesets":[
         {
          "columns":4,
@@ -1056,8 +1011,135 @@
                     }
                 }],
          "tilewidth":16
+        }, 
+        {
+         "columns":8,
+         "firstgid":204,
+         "image":"BonePlanet\/Bones_A.png",
+         "imageheight":512,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Bones_A",
+         "spacing":0,
+         "terrains":[
+                {
+                 "name":"On Rock",
+                 "tile":36
+                }, 
+                {
+                 "name":"On Sand",
+                 "tile":33
+                }],
+         "tilecount":128,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":11,
+                 "terrain":[0, 0, 0, 0]
+                }, 
+                {
+                 "id":24,
+                 "terrain":[-1, -1, -1, 1]
+                }, 
+                {
+                 "id":25,
+                 "terrain":[-1, -1, 1, 1]
+                }, 
+                {
+                 "id":26,
+                 "terrain":[-1, -1, 1, -1]
+                }, 
+                {
+                 "id":27,
+                 "terrain":[-1, -1, -1, 0]
+                }, 
+                {
+                 "id":28,
+                 "terrain":[-1, -1, 0, 0]
+                }, 
+                {
+                 "id":29,
+                 "terrain":[-1, -1, 0, -1]
+                }, 
+                {
+                 "id":32,
+                 "terrain":[-1, 1, -1, 1]
+                }, 
+                {
+                 "id":33,
+                 "terrain":[1, 1, 1, 1]
+                }, 
+                {
+                 "id":34,
+                 "terrain":[1, -1, 1, -1]
+                }, 
+                {
+                 "id":35,
+                 "terrain":[-1, 0, -1, 0]
+                }, 
+                {
+                 "id":37,
+                 "terrain":[0, -1, 0, -1]
+                }, 
+                {
+                 "id":40,
+                 "terrain":[-1, 1, -1, -1]
+                }, 
+                {
+                 "id":41,
+                 "terrain":[1, 1, -1, -1]
+                }, 
+                {
+                 "id":42,
+                 "terrain":[1, -1, -1, -1]
+                }, 
+                {
+                 "id":43,
+                 "terrain":[-1, 0, -1, -1]
+                }, 
+                {
+                 "id":44,
+                 "terrain":[0, 0, -1, -1]
+                }, 
+                {
+                 "id":45,
+                 "terrain":[0, -1, -1, -1]
+                }, 
+                {
+                 "id":48,
+                 "terrain":[1, 1, 1, -1]
+                }, 
+                {
+                 "id":49,
+                 "terrain":[1, 1, -1, 1]
+                }, 
+                {
+                 "id":50,
+                 "terrain":[0, 0, 0, -1]
+                }, 
+                {
+                 "id":51,
+                 "terrain":[0, 0, -1, 0]
+                }, 
+                {
+                 "id":56,
+                 "terrain":[1, -1, 1, 1]
+                }, 
+                {
+                 "id":57,
+                 "terrain":[-1, 1, 1, 1]
+                }, 
+                {
+                 "id":58,
+                 "terrain":[0, -1, 0, 0]
+                }, 
+                {
+                 "id":59,
+                 "terrain":[-1, 0, 0, 0]
+                }],
+         "tilewidth":32
         }],
- "tilewidth":16,
+ "tilewidth":32,
  "type":"map",
  "version":1.2,
  "width":64
